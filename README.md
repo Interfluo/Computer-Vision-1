@@ -5,3 +5,6 @@
  - Dense Optical Flow
  - Lucas-Kanade Optical Flow
  - basic image and video manipulation functions
+
+
+# Warning! still a work in progress
